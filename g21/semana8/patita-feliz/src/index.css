@@ -1,0 +1,9 @@
+.body {
+  background-image: linear-gradient(to right, #070c41, #063c33, #062f3d);
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
